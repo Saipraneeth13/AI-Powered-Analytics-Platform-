@@ -1,13 +1,5 @@
 # AI-Powered-Analytics-Platform-
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Analytics-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Python-Backend-yellow?style=for-the-badge&logo=python" />
-</p>
-
 ---
 
 ## 📌 Overview
